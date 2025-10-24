@@ -1,0 +1,67 @@
+[
+  {
+    "Order": 1,
+    "Park Name": "Amistad National Recreation Area",
+    "State": "TX",
+    "Visit Date": "2025-10-24",
+    "Forecast High": 88,
+    "Forecast Low": 68,
+    "Weather": "Mostly Cloudy then Slight Chance Showers And Thunderstorms",
+    "Wind Speed": 15.0,
+    "Humidity": 87,
+    "NPS Link": "https://www.nps.gov/amis/index.htm",
+    "Directions": "https://www.google.com/maps/search/?api=1&query=29.53539777,-101.075821"
+  },
+  {
+    "Order": 2,
+    "Park Name": "Big Bend National Park",
+    "State": "TX",
+    "Visit Date": "2025-10-25",
+    "Forecast High": 76,
+    "Forecast Low": 54,
+    "Weather": "Sunny",
+    "Wind Speed": 7.5,
+    "Humidity": 62,
+    "NPS Link": "https://www.nps.gov/bibe/index.htm",
+    "Directions": "https://www.google.com/maps/search/?api=1&query=29.29817767,-103.2297897"
+  },
+  {
+    "Order": 3,
+    "Park Name": "Big Thicket National Preserve",
+    "State": "TX",
+    "Visit Date": "2025-10-26",
+    "Forecast High": 83,
+    "Forecast Low": 60,
+    "Weather": "Showers And Thunderstorms",
+    "Wind Speed": 2.5,
+    "Humidity": 97,
+    "NPS Link": "https://www.nps.gov/bith/index.htm",
+    "Directions": "https://www.google.com/maps/search/?api=1&query=30.457983431,-94.386742115"
+  },
+  {
+    "Order": 4,
+    "Park Name": "Chamizal National Memorial",
+    "State": "TX",
+    "Visit Date": "2025-10-27",
+    "Forecast High": 81,
+    "Forecast Low": 56,
+    "Weather": "Sunny",
+    "Wind Speed": 5.5,
+    "Humidity": 40,
+    "NPS Link": "https://www.nps.gov/cham/index.htm",
+    "Directions": "https://www.google.com/maps/search/?api=1&query=31.76729634,-106.4544011"
+  },
+  {
+    "Order": 5,
+    "Park Name": "El Camino Real de Tierra Adentro National Historic Trail",
+    "State": "TX",
+    "Visit Date": "2025-10-28",
+    "Forecast High": 77,
+    "Forecast Low": 41,
+    "Weather": "Sunny",
+    "Wind Speed": 5.0,
+    "Humidity": 48,
+    "NPS Link": "https://www.nps.gov/elca/index.htm",
+    "Directions": "https://www.google.com/maps/search/?api=1&query=33.7990672546,-106.866386195"
+  }
+]

@@ -1,0 +1,6 @@
+Order,Park Name,State,Visit Date,Forecast High,Forecast Low,Weather,Wind Speed,Humidity,NPS Link,Directions
+1,Amistad National Recreation Area,TX,2025-10-24,88,68,Mostly Cloudy then Slight Chance Showers And Thunderstorms,15.0,87,https://www.nps.gov/amis/index.htm,"https://www.google.com/maps/search/?api=1&query=29.53539777,-101.075821"
+2,Big Bend National Park,TX,2025-10-25,76,54,Sunny,7.5,62,https://www.nps.gov/bibe/index.htm,"https://www.google.com/maps/search/?api=1&query=29.29817767,-103.2297897"
+3,Big Thicket National Preserve,TX,2025-10-26,83,60,Showers And Thunderstorms,2.5,97,https://www.nps.gov/bith/index.htm,"https://www.google.com/maps/search/?api=1&query=30.457983431,-94.386742115"
+4,Chamizal National Memorial,TX,2025-10-27,81,56,Sunny,5.5,40,https://www.nps.gov/cham/index.htm,"https://www.google.com/maps/search/?api=1&query=31.76729634,-106.4544011"
+5,El Camino Real de Tierra Adentro National Historic Trail,TX,2025-10-28,77,41,Sunny,5.0,48,https://www.nps.gov/elca/index.htm,"https://www.google.com/maps/search/?api=1&query=33.7990672546,-106.866386195"
