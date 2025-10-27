@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Virtual environments
+.venv/
+env/
+venv/
+ENV/
+
+# VS Code settings
+.vscode/
+*.code-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Credentials / secrets
+.env
+service_account.json
+service_account.json.json
+
+# Temporary data
+*.csv
+*.json
+!parks_tx_itinerary_simple.csv
+!parks_tx_itinerary_simple.json

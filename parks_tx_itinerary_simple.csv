@@ -1,8 +1,6 @@
-Order,Park Name,State,Visit Date,Forecast High,Forecast Low,Weather,Wind Speed,Humidity,NPS Link,Directions
-1,Big Bend National Park,TX,2025-10-26,78,56,Sunny,5.0,43,https://www.nps.gov/bibe/index.htm,"https://www.google.com/maps/search/?api=1&query=29.29817767,-103.2297897"
-2,Blackwell School National Historic Site,TX,2025-10-28,79,43,Sunny,7.5,46,https://www.nps.gov/blsc/index.htm,"https://www.google.com/maps/search/?api=1&query=30.3057966497568,-104.022553112857"
-3,Big Thicket National Preserve,TX,2025-10-27,84,61,Mostly Sunny then Slight Chance Rain Showers,2.5,97,https://www.nps.gov/bith/index.htm,"https://www.google.com/maps/search/?api=1&query=30.457983431,-94.386742115"
-4,Alibates Flint Quarries National Monument,TX,2025-10-25,66,47,Slight Chance Showers And Thunderstorms,5.0,96,https://www.nps.gov/alfl/index.htm,"https://www.google.com/maps/search/?api=1&query=35.5819662,-101.6717008"
-5,Amistad National Recreation Area,TX,2025-10-24,88,68,Mostly Cloudy then Slight Chance Showers And Thunderstorms,15.0,87,https://www.nps.gov/amis/index.htm,"https://www.google.com/maps/search/?api=1&query=29.53539777,-101.075821"
-6,Flex/Travel,TX,2025-10-29,,,,,,,Use prior day's location
-7,Flex/Travel,TX,2025-10-30,,,,,,,Use next day's location
+Order,Park Name,State,Visit Date,Forecast High (°F),Forecast Low (°F),Weather,Wind Speed (mph),Humidity (%),NPS Link,Directions
+1,Blackwell School National Historic Site,TX,2025-10-31,72,,Sunny,7.5,48,https://www.nps.gov/blsc/index.htm,"https://www.google.com/maps/search/?api=1&query=30.3057966497568,-104.022553112857"
+2,Big Thicket National Preserve,TX,2025-10-30,67,,Sunny,7.5,71,https://www.nps.gov/bith/index.htm,"https://www.google.com/maps/search/?api=1&query=30.457983431,-94.386742115"
+3,Big Bend National Park,TX,2025-10-29,59,,Sunny,15.0,45,https://www.nps.gov/bibe/index.htm,"https://www.google.com/maps/search/?api=1&query=29.29817767,-103.2297897"
+4,Amistad National Recreation Area,TX,2025-10-27,91,,Sunny,5.0,78,https://www.nps.gov/amis/index.htm,"https://www.google.com/maps/search/?api=1&query=29.53539777,-101.075821"
+5,Alibates Flint Quarries National Monument,TX,2025-10-28,57,,Sunny,25.0,58,https://www.nps.gov/alfl/index.htm,"https://www.google.com/maps/search/?api=1&query=35.5819662,-101.6717008"
